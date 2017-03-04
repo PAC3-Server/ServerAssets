@@ -13,3 +13,4 @@ local function add_dir(dir)
 end
 
 add_dir("sound/pac_server/")
+add_dir("materials/pac_server/jrpg/")
