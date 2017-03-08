@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" 	"Models/metlion_guard/bodyside"
+	"$bumpmap" "Models/metlion_guard/bodyside_normal"
+	"$surfaceprop" "metal"
+	"$base" "solidmetal"
+	"$gamematerial" M
+	"$model" 1
+	"$phong" 1
+	"$phongboost" "5"
+	"$normalmapalphaenvmapmask" 1
+	"$halflambert" "1"
+	"$phongexponent" "20"
+	//"$phongexponenttexture" "models/antlion_guard/antlionGuard_phong"
+	//"$phongalbedotint" "1"										
+	"$phongfresnelranges"	"[.1 .6 1.0]"
+}
