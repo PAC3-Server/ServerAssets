@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dark_Souls/Enemies/Giants/Artorias/Artorias_Greaves_D"
+	"$bumpmap" "models/Dark_Souls/Enemies/Giants/Artorias/Artorias_Greaves_N"
+
+	"$color2"	"[0.7 0.7 0.7]"
+
+	"$phongexponenttexture" "models\dark_souls\shared\green"
+
+	"$phongexponent" "15"
+	"$phongalbedotint" 1
+	"$phong" "1"
+	"$phongboost"	"200"
+	"$phongfresnelranges"	"[0.5 4.75 5]"
+	"$phongwarptexture" "models\Dark_Souls\shared\testwarp2"
+
+	"$envmap" "models\Dark_Souls\shared\painted_silver_ldr"
+	"$normalmapalphaenvmapmask"	"1"
+	"$envmaptint"	"[0.00125 0.00124 0.00115]"
+	"$envmapfresnel"	"0.6"
+}

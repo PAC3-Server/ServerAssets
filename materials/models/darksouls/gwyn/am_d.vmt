@@ -1,0 +1,22 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/darksouls/Gwyn/AM_D"
+	"$bumpmap" "models/darksouls/Gwyn/AM_N"
+	"$phongexponenttexture" 	"models/darksouls/gwyn/AM_S"
+	$PhongAlbedoTint 1
+	"$ambientocclusion"	"1"
+
+	 $model "1"
+	"$halflambert" "0"
+	$diffuseexp 1.5
+	"$phong" "1"
+	$phongboost 1.5
+	$phongtint "[.85 .85 1]"
+	$phongfresnelranges "[.4 .9 0.1]"
+
+	"$rimlight" "1"												// To enable rim lighting (requires phong)
+	"$rimlightexponent" "100"										// Exponent for phong component of rim lighting	
+	"$rimlightboost" "0.2"									// Boost for ambient cube component of rim lighting
+	$rimmask 1
+
+}

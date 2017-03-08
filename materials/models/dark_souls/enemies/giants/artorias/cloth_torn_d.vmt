@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dark_Souls/Enemies/Giants/Artorias/Artorias_Helm_D"
+	"$bumpmap" "models/Dark_Souls/Enemies/Giants/Artorias/Artorias_Helm_N"
+
+	"$alphatest"	"1"
+	"$allowalphatocoverage"	"1"
+	"$ambientocclusion"	"0"
+
+	"$color2"		"[0.87 0.87 0.87]"
+	
+	"$phong" "1"
+	"$phongexponent"				"7"
+	"$phongboost"					"40"
+
+	"$phongfresnelranges"			"[0.3 0.7 1.5]"
+	
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models\Dark_Souls\shared\souls_green"
+
+}
