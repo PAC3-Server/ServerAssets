@@ -1,0 +1,18 @@
+{
+	"title" : "PAC Server Content",
+	"type" : "tool",
+	"tags" : [ "fun", "roleplay" ],
+	"ignore" :
+	[
+		".lua*",
+		".gitignore",
+		".git*",
+		"*.txt",
+		"*.md",
+		"*.bat",
+		"*.7z",
+		"*.md",
+		"*.yml",
+		"COPYING"
+	]
+}
