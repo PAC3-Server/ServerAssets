@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/props_animals/goat/Goat_Chain_diffuseMap"
+	"$bumpmap" "models/props_animals/goat/Goat_Chain_NormalsMap"
+	"$translucent" 1
+	"$nocull" 1
+
+	"$model" "1"
+
+	"$ambientocclusion" 1
+}

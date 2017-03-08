@@ -1,0 +1,7 @@
+"vertexlitgeneric" {
+    "$basetexture"  "models\animals\trexy_npc\trexy_npc_head"
+	"$bumpmap" "models\animals\trexy_npc\trexy_npc_head_uv"
+    "$surfaceprop"  "flesh"
+	"$halflambert" "1"
+    "$model"       "1"
+}

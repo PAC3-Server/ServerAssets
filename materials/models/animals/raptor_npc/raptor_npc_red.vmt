@@ -1,0 +1,7 @@
+"vertexlitgeneric" {
+    "$basetexture"  "models\animals\raptor_npc\raptor_npc_red"
+	"$bumpmap" "models\animals\raptor_npc\raptor_npc_bumpmap"
+    "$surfaceprop"  "flesh"
+	"$halflambert" "1"
+    "$model"       "1"
+}

@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/npcs/dinosaurs/brachiosaurus/Brachiosaurus_Head_DiffuseMap"
+	"$bumpmap" "models/npcs/dinosaurs/brachiosaurus/Brachiosaurus_Head_NormalsMap"
+	"$halflambert" 0
+	"$model" "1"
+	"$ambientocclusion" 1
+
+	"$phong" "1"
+	"$phongexponent" 100
+	"$phongboost"	"5"
+	"$phongfresnelranges"	"[0.18 0.4 1]"
+	"$phongtint" "[.85 .85 1]"
+
+	"$lightwarptexture" "models\Allies\coach_head_wrp"
+
+}

@@ -1,0 +1,27 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dinosaurs/dromaeo_diffusemap"
+	"$bumpmap" "models/Dinosaurs/dromaeo_normalmap"
+
+	"$halflambert" 1
+	"$model" "1"
+
+	"$phong" "1"
+	"$phongexponent" 33
+	"$phongboost"	"5"
+	"$phongfresnelranges"	"[0.18 0.4 1]"
+
+	"$detail" "effects/burned.vtf"	
+	"$detailscale" "2"
+	"$detailblendfactor" .0
+	"$detailblendmode" 0
+
+	"Proxies"
+	{
+		"BurnLevel"
+		{
+			"resultVar" "$detailblendfactor"
+		}
+	}
+
+}

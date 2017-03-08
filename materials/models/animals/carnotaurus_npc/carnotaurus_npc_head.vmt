@@ -1,0 +1,7 @@
+"vertexlitgeneric" {
+    "$basetexture"  "models\animals\carnotaurus_npc\carnotaurus_npc_head"
+	"$bumpmap" "models\animals\carnotaurus_npc\carnotaurus_npc_head_normal"
+    "$surfaceprop"  "flesh"
+	"$halflambert" "1"
+    "$model"       "1"
+}

@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dinosaurs/Triceratops_DiffuseMap"
+	"$bumpmap" "models/Dinosaurs/Triceratops_NormalsMap"
+
+	"$halflambert" 0
+	"$model" "1"
+	"$ambientocclusion" 1
+
+	"$phong" "1"
+	"$phongexponent"  "15"
+	"$phongboost"	"1"
+	"$phongfresnelranges"	"[0.1 0.5 1]"
+
+	"$lightwarptexture" "models\Allies\coach_head_wrp"
+}

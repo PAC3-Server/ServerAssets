@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/Dinosaurs/Dinosaurs_DromeoHeadless_DiffuseMap"
+	"$bumpmap" "models/Dinosaurs/Dinosaurs_DromeoHeadless_NormalsMap"
+}

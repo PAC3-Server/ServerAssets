@@ -1,0 +1,7 @@
+"vertexlitgeneric" {
+    "$basetexture"  "models\animals\spino_npc\spino_npc_body"
+	"$bumpmap" "models\animals\spino_npc\spino_npc_body_normal"
+    "$surfaceprop"  "flesh"
+	"$halflambert" "1"
+    "$model"       "1"
+}

@@ -1,0 +1,17 @@
+
+
+"vertexlitgeneric" {
+    "$basetexture"  "rugops/rugops"
+	"$bumpmap" "rugops/rugops_normal"
+    "$surfaceprop"  "flesh"
+	"$halflambert" "1"
+    "$model"       "1"
+}
+
+
+
+
+
+
+
+
