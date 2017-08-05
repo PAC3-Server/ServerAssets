@@ -1,9 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "ceratosaurus/cerat"
-	"$bumpmap" "ceratosaurus/cerat_normal"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .36 .36 .30 ]"
-	"$envmapconstrast" "1"
-	"$normalmapalphaenvmapmask" 1
-}

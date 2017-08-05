@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$basetexture" "creatures/raptor_eyeR"
-	"$halflambert" 1
-	"$surfaceprop" "flesh"
-	"$model"		1
-}

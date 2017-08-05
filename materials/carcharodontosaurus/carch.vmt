@@ -1,9 +1,1 @@
-"VertexLitGeneric"
-{
-	"$baseTexture" "carcharodontosaurus/Carch"
-	"$bumpmap" "carcharodontosaurus/Carch_normal"
-	"$envmap" "env_cubemap"
-	"$envmaptint" "[ .36 .36 .30 ]"
 	"$envmapconstrast" "1"
-	"$normalmapalphaenvmapmask" 1
-}
