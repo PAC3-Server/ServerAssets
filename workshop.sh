@@ -2,7 +2,7 @@
 
 WORKSHOP_ID=879302614
 dir="$(cd -P -- "$(dirname -- "$0")" && pwd -P)"
-gma_location=$(readlink -f '$dir/..∕__TEMP.gma')
+gma_location=$(readlink -f "$dir")/..∕__TEMP.gma
 
 cd ../../../bin
 
