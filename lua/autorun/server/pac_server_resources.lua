@@ -1,3 +1,7 @@
+resource.AddWorkshop("879302614")
+
+--[[
+
 for _, name in ipairs((file.Find("resource/fonts/*", "GAME"))) do
 	resource.AddFile("resource/fonts/" .. name)
 end
@@ -15,3 +19,4 @@ end
 add_dir("sound/pac_server/")
 add_dir("materials/pac_server/jrpg/")
 add_dir("materials/pac_server/")
+]]
