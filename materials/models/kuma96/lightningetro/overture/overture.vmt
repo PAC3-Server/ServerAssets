@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	$basetexture "models/kuma96/lightningetro/overture/overture_d"
+	$bumpmap "models/kuma96/lightningetro/overture/overture_ns"
+	$envmap env_cubemap
+	$normalmapalphaenvmapmask 1
+	$envmaptint "[.06 .06 .06]"
+	$phong 1
+	$phongexponent 13
+	$phongboost 18
+	$phongfresnelranges "[.01 .5 1]"
+}
